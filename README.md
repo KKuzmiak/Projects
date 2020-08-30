@@ -11,4 +11,4 @@ The use of these codes must not violate the regulations of the website to which 
 
 3. `Papermill` - The goal is to generate a sales report at the end of each month for the current month. Papermill allows me to execute the same Jupyter notebook with different variables (different sales data for each month). Thanks to this, it is easier and faster to generate and save mothly reports. The Jupyter notebook is also converted to html file by nbconvert so it can be used as a final report and submitted to the customer.
 
-* [Jupyter Notebook converted to HTML file]
+* [Final_report_August.html](https://rawcdn.githack.com/KKuzmiak/Projects/fbea926028a0174e844fa614df490f53771affd6/Papermill_report/Final_report_August.html)
